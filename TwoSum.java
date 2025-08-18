@@ -14,6 +14,6 @@ class TowSum {
     public static void main(String[] args) {
         int[] numbers = { 2, 7, 11, 15 };
         int[] result = twoSum(numbers, 9);
-        System.out.print(twoSum(numbers, 9));
+        System.out.print(result);
     }
 }
